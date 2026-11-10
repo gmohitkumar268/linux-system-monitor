@@ -1,5 +1,8 @@
 
 # Linux System Monitoring Tool
+## 📸 System Monitoring Output
+
+![Linux System Monitor Output](screenshots/system-monitor.png)
 
 A modular Linux system monitoring tool built using Bash scripting. It monitors CPU, RAM, disk usage, system uptime, and top resource-consuming processes. Monitoring reports are automatically saved to a log file.
 
